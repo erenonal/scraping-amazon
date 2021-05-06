@@ -1,5 +1,8 @@
 # SCRAPING FROM AMAZON
 
+<a href="https://ibb.co/PN8545z"><img src="https://i.ibb.co/FKtBJBq/scraping-amazon-product-reviews-data-extraction.jpg" alt="scraping-amazon-product-reviews-data-extraction" border="0"></a>
+
+
 #### **This is a code that gets the name of the product, the title of the review, the number of stars given, and the full comment from the review page of a product you want from Amazon.com. I took airpods 2 comments as an example here**
 
 
